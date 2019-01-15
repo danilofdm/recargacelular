@@ -1,0 +1,7 @@
+{
+  "name": "recargacelular",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
